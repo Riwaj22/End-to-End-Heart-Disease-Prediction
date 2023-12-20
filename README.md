@@ -6,20 +6,21 @@ Heart disease prediction is a crucial aspect of preventive healthcare that invol
 About the Dataset
 This dataset gives information related to heart disease. The dataset contains 13 columns, target is the class variable which is affected by the other 12 columns. Here the aim is to classify the target variable to (disease\non disease) using different machine learning algorithms and find out which algorithm is suitable for this dataset.
 
-Attributes:
-Age <br>
-Gender
-Chest Pain Type
-Resting Blood Pressure
-Serum Cholesterol
-Fasting Blood Sugar
-Resting Electrocardiographic Results
-Maximum Heart Rate Achieved
-Exercise-induced angina
-Depression induced by exercise relative to rest
-Slope of the Peak Exercise ST Segment
-Number of Major Vessels Colored by Fluoroscopy
-Thalassemia
-Target
+Attributes
+
+- Age
+- Gender
+- Chest Pain Type
+- Resting Blood Pressure
+- Serum Cholesterol
+- Fasting Blood Sugar
+- Resting Electrocardiographic Results
+- Maximum Heart Rate Achieved
+- Exercise-induced Angina
+- Depression Induced by Exercise Relative to Rest
+- Slope of the Peak Exercise ST Segment
+- Number of Major Vessels Colored by Fluoroscopy
+- Thalassemia
+- Target
 
 
